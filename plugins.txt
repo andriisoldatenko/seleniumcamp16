@@ -1,0 +1,9 @@
+greenballs:1.15
+credentials:1.18
+github-oauth:0.22.2
+shiningpanda:0.22
+xunit:1.100
+postbuild-task:1.8
+ghprb:1.30.4
+jenkins-multijob-plugin:1.20
+test-results-analyzer:0.3.3
